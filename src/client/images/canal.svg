@@ -1,0 +1,27 @@
+<svg width="286" height="200" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:#627eea;}.b{fill:#c5c6dd;}.c,.f{fill:#fff;}.d{fill:#939dc3;}.e{fill:#ccd1d9;}.f{stroke:#707070;}.g{fill:#8b8b8b;font-size:15px;font-family:SegoeUI-Semibold, Segoe UI;font-weight:600;}</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="202" width="288" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <g stroke="null" id="svg_2">
+    <ellipse stroke="null" id="svg_3" ry="24.883591" rx="25.159132" cy="113.420396" cx="92.296493" class="a"/>
+    <g stroke="null" id="svg_4">
+     <path stroke="null" id="svg_5" d="m93.081494,94.757467l0,13.795077l11.788365,5.2103l-11.788365,-19.005377z" class="b"/>
+     <path stroke="null" id="svg_6" d="m93.079586,94.757467l-11.790273,19.004434l11.790273,-5.2103l0,-13.794134z" class="c"/>
+     <path stroke="null" id="svg_7" d="m93.081494,122.702334l0,9.373445l11.79695,-16.141269l-11.79695,6.767824z" class="b"/>
+     <path stroke="null" id="svg_8" d="m93.079586,132.074835l0,-9.374389l-11.790273,-6.76688l11.790273,16.141269z" class="c"/>
+     <path stroke="null" id="svg_9" d="m93.081494,120.532555l11.788365,-6.76971l-11.788365,-5.20747l0,11.97718z" class="d"/>
+     <path stroke="null" id="svg_10" d="m81.289314,113.761901l11.790273,6.76971l0,-11.976237l-11.790273,5.206526z" class="e"/>
+    </g>
+   </g>
+   <path stroke="null" id="svg_11" d="m119.32706,79.999208l-10.316608,0a11.445941,11.320586 0 0 1 -11.445941,-11.320586l0,-22.641172a11.445941,11.320586 0 0 1 11.445941,-11.320586l135.443632,0a11.445941,11.320586 0 0 1 11.445941,11.320586l0,22.641172a11.445941,11.320586 0 0 1 -11.445941,11.320586l-111.67709,0c-2.144206,2.595244 -12.495152,15.026191 -14.123337,15.026191c-1.762675,0 7.893884,-9.503632 0.673403,-15.026191z" class="f"/>
+   <text stroke="#000" transform="matrix(0.6749798983833184,0.006708528274810549,-0.010265304900050438,1.0103463166732998,40.25801368056014,19.492521294652903) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_14" y="41.202525" x="109.113237" stroke-width="0" fill="#546433">Visita nuestro canal :)</text>
+  </g>
+ </g>
+</svg>

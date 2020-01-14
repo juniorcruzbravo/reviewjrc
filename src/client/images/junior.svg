@@ -1,0 +1,17 @@
+<svg width="145.25" height="34.439" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:#0ecbb1;}</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="null" transform="matrix(1.1806024355999654,0,0,1.166429744086403,-9.87942327850841,6.480915790526733) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_5" y="17.596635" x="11.994933" stroke-opacity="null" stroke-width="0" fill="#7DD8B5">jrC Review</text>
+  <path d="m4.714887,6.011532c0,0 -0.091511,-0.435462 0.298506,-0.597012c0.551567,-0.228467 2.089542,-0.597012 2.98506,-1.194024c0.895518,-0.597012 2.634145,-0.626232 2.98506,-1.194024c0.156934,-0.253924 0.298506,-0.298506 2.388048,-0.298506c3.582071,0 7.761156,0 12.238745,0c4.477591,0 7.761158,0 12.537251,0c2.089542,0 2.686554,0 2.985062,0c0.597012,0 0.427662,0.314664 0.597012,1.194024c0.607983,3.156998 2.410351,6.209838 4.776096,8.656673c1.620544,1.676092 3.281029,1.809375 5.373108,2.089542c2.385338,0.31944 5.0746,0.597012 8.656673,0.597012c3.880577,0 8.955177,0 14.626793,0l3.582069,0" id="svg_6" stroke-opacity="null" stroke-width="0" stroke="null" fill="none"/>
+  <path d="m128.893387,39.444202c-128.893387,-39.444202 -128.893387,-39.444202 -128.893387,-39.444202l128.893387,39.145699l0.298492,0l0.298508,-0.298508" id="svg_7" stroke-opacity="null" stroke-width="0" stroke="null" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_8" points="130.684415358589,52.57846711962124 130.98292135014984,52.57846711962124 " stroke-opacity="null" stroke-width="0" stroke="null" fill="none"/>
+  <path d="m145.012711,55.563526c0,0.597012 0,1.194023 0,2.686554c0,2.686554 -0.541519,5.272934 0.895508,8.358166c1.992813,4.27845 4.179092,5.074608 4.776093,5.373108l0.298508,0l0.298508,0" id="svg_9" stroke-opacity="null" stroke-width="0" stroke="null" fill="none"/>
+ </g>
+</svg>

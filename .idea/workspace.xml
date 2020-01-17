@@ -12,7 +12,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/client/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/client/.well-known/pki-validation" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -23,6 +23,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Note Brayan\Node-Landing-master\src\client\.well-known\pki-validation" />
       <recent name="D:\Note Brayan\Node-Landing-master\src\client\images" />
     </key>
   </component>
@@ -48,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579023004047</updated>
-      <workItem from="1579023006150" duration="7547000" />
+      <workItem from="1579023006150" duration="12431000" />
     </task>
     <servers />
   </component>
